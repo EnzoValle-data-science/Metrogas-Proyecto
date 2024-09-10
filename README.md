@@ -23,3 +23,9 @@ Optimizar la generación de informes y automatizar el flujo de datos, asegurando
 - Contribución en la creación de nuevos indicadores clave, validados y aprobados por los supervisores.
 - Solución aprobada y entregada junto con un manual de uso para facilitar su implementación y actualización continua.
 
+## **Duración del proyecto**
+El proyecto fue completado en el transcurso de un mes. La dedicación de horas-hombre varió según la cantidad de proyectos y eventos que me asignaran.
+
+## **Informe disponible**
+Cualquier información respecto a flujos de caja o planificación ha sido borrada.
+https://drive.google.com/drive/folders/1Uw2qHP1HLorU_cK1qrfEreZjc4VOnXku?usp=sharing
