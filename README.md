@@ -26,6 +26,3 @@ Optimizar la generación de informes y automatizar el flujo de datos, asegurando
 ## **Duración del proyecto**
 El proyecto fue completado en el transcurso de un mes. La dedicación de horas-hombre varió según la cantidad de proyectos y eventos que me asignaran.
 
-## **Informe disponible**
-Cualquier información respecto a flujos de caja o planificación ha sido borrada.
-https://drive.google.com/drive/folders/1Uw2qHP1HLorU_cK1qrfEreZjc4VOnXku?usp=sharing
