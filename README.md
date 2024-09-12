@@ -26,3 +26,5 @@ Optimizar la generación de informes y automatizar el flujo de datos, asegurando
 ## **Duración del proyecto**
 El proyecto fue completado en el transcurso de un mes. La dedicación de horas-hombre varió según la cantidad de proyectos y eventos que me asignaran.
 
+## **Informe Fonored**
+https://drive.google.com/file/d/1UFePQfpNh0WxntTxjsrnCsIszo8Rx0VE/view?usp=sharing
